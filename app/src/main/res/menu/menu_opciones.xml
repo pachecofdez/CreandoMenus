@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op1"
+        android:title="Casa">
+        <menu>
+            <item
+                android:id="@+id/op5"
+                android:title="Habitación" />
+
+            <item
+                android:id="@+id/op6"
+                android:title="Comedor" />
+
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/op2"
+        android:title="Trabajo" />
+
+    <item
+        android:id="@+id/op3"
+        android:title="Donaciones" />
+
+    <item
+        android:id="@+id/op4"
+        android:title="Acerca De" />
+
+</menu>
